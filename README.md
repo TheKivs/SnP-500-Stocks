@@ -1,0 +1,2 @@
+# SnP-500-Stocks
+Stock market data can be interesting to analyze and as a further incentive, strong predictive models can have large financial payoff. The amount of financial data on the web is seemingly endless. A large and well structured dataset on a wide array of companies can be hard to come by. We work on a dataset with historical stock prices (last 5 years) for all companies currently found on the S&amp;P 500 index, and try to beat the market. (Data source: https://www.kaggle.com/camnugent/sandp500)
